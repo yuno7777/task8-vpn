@@ -1,0 +1,23 @@
+VPN Encryption and Privacy Features
+
+- Encryption: VPNs use strong algorithms to secure traffic in real time, protecting passwords, banking info, and messages.
+- IP Masking: Hides your real IP, replacing it with the VPN server’s IP.
+- No-Logs Policy: Many providers claim they don’t log browsing activity (trust depends on provider).
+- DNS Leak Protection: Stops DNS queries from leaking outside the VPN tunnel.
+- Kill Switch: Blocks all traffic if the VPN disconnects, preventing exposure.
+
+Summary: VPN Benefits and Limitations
+
+Benefits:
+- Masks IP and hides browsing from ISPs/trackers.
+- Encrypts data, useful on public WiFi.
+- Access geo-blocked websites/content.
+- Reduces tracking and profiling.
+- Enables secure remote work.
+
+Limitations:
+- May reduce browsing speed.
+- Not 100% anonymous (cookies, fingerprints can still track).
+- Relies on VPN provider’s trustworthiness.
+- Some services block VPN traffic.
+- Restricted/illegal in certain countries.
